@@ -109,7 +109,7 @@ percent.addEventListener("click" , () => {
 clear.addEventListener("click", () => {
     result.innerHTML = 0;
 
-    firstvalue = "";
+    firstValue = "";
     isFirstValue = false;
     secondValue = "";
     isSecondValue = false;
